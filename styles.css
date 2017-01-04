@@ -1,0 +1,25 @@
+body{
+  margin:0
+}
+
+header{
+  text-align: center;
+  font-size: 40px;
+}
+
+.container{
+  width:1000px;
+  margin:auto;
+}
+
+.product{
+  width: 33.2%;
+  float: left;
+  border:0;
+}
+
+.product img{
+  margin: auto;
+  display: block;
+  width: 95%;
+}
