@@ -125,3 +125,7 @@ header div .social ul img{
   margin-top:20px;
   margin-bottom: 20px;
 }
+
+#drone-4{
+  background-image: url("images/drone_seguranca.svg");
+}
