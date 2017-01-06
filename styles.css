@@ -127,5 +127,13 @@ header div .social ul img{
 }
 
 #drone-4{
+  background-image: url("images/drone_monitoramento.svg");
+}
+
+#drone-5{
+  background-image: url("images/drone_imagem.svg");
+}
+
+#drone-6{
   background-image: url("images/drone_seguranca.svg");
 }
