@@ -21,7 +21,7 @@ nav span{
 header{
   background-image: url('images/drone_header.jpg');
   background-repeat: no-repeat;
-  background-size: 100%;
+  /*background-size: 100%;*/
   height: 600px;
 }
 header ul{
@@ -83,15 +83,15 @@ header div .social ul img{
 }*/
 .backBlack{
   background-color: black;
-  height: auto;
+  height: 200px;
   /*box-shadow: 0px 26px 45px -10px;*/
   opacity: 0.6;
 }
 .nameEmpresa{
   color: white;
-  padding: 0px 0px 0px 14px;
+  padding: 60px 0px 0px 0px;
   font-size: 59px;
-  margin-top: 43px;
+  /*margin-top: 43px;*/
   /* margin: 0px; */
   /* margin-right: 6px; */
   /* width: 442px;*/
