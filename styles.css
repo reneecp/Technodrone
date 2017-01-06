@@ -8,30 +8,31 @@ nav{
   padding-top: 15px;
   width: 100%;
   background-color: rgba(255, 255, 255, 0.7);
-  z-index: 1;
+  z-index: 3;
 }
 
 nav span{
-  padding: 0 10px;
+  padding: 0px 10px;
   font-size: 20px;
   font-weight: bold;
   float: right;
 }
 
 header{
+  margin-top: 60px;
   background-image: url('images/drone_header.jpg');
   background-repeat: no-repeat;
   /*background-size: 100%;*/
-  height: 600px;
+  height: 700px;
 }
 header ul{
   list-style-type: none;
-  float: right;
+
   padding: 3px 42px 0px 50px;
   margin: 0px;
 }
 header ul li{
-  float: left;
+
   padding: 0px 0px 0px 0px;
   width: 148px;
 }
@@ -81,22 +82,34 @@ header div .social ul img{
   margin: 0;
   float: left;
 }*/
-.backBlack{
-  background-color: black;
-  height: 200px;
-  /*box-shadow: 0px 26px 45px -10px;*/
-  opacity: 0.6;
-}
+
 .nameEmpresa{
-  color: white;
-  padding: 60px 0px 0px 0px;
-  font-size: 59px;
+  color: black;
+  padding: 0px 0px 0px 0px;
+  font-size: 30px;
+
   /*margin-top: 43px;*/
   /* margin: 0px; */
   /* margin-right: 6px; */
   /* width: 442px;*/
 }
 
+.slogan{
+  margin-top:20px;
+  padding-top: 200px;
+}
+
+.slogan h2{
+    text-shadow: 1px 1px 20px grey;
+}
+
+.slogan h3{
+  font-family: 'PT Mono', monospace;
+  font-size: 20px;
+  color:white;
+  text-shadow: 1px 1px 20px grey;
+
+}
 
 .container{
   width:1000px;
