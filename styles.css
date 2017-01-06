@@ -114,3 +114,14 @@ header div .social ul img{
   display: block;
   width: 95%;
 }
+
+#portfolio{
+  padding-bottom:150px;
+}
+
+#portfolio img{
+  width: 100%;
+  height:170px;
+  margin-top:20px;
+  margin-bottom: 20px;
+}
